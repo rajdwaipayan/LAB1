@@ -1,0 +1,17 @@
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe.config
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\Guna.UI.dll
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csprojResolveAssemblyReference.cache
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.Home.resources
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.Properties.Resources.resources
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.GenerateResource.Cache
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
+F:\Project\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.StudentUserControl.resources
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.Manager.dll
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.Model.dll
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.Repository.dll
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.Manager.pdb
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.Model.pdb
+F:\Project\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.Repository.pdb

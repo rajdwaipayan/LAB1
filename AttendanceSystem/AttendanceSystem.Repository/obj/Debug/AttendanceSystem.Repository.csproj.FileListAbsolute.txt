@@ -1,0 +1,7 @@
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\bin\Debug\AttendanceSystem.Repository.dll
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\bin\Debug\AttendanceSystem.Repository.pdb
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\bin\Debug\AttendanceSystem.Model.dll
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\bin\Debug\AttendanceSystem.Model.pdb
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\obj\Debug\AttendanceSystem.Repository.csprojResolveAssemblyReference.cache
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\obj\Debug\AttendanceSystem.Repository.dll
+F:\Project\AttendanceSystem\AttendanceSystem.Repository\obj\Debug\AttendanceSystem.Repository.pdb

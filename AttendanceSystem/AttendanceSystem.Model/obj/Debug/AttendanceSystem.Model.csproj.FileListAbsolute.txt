@@ -1,0 +1,4 @@
+F:\Project\AttendanceSystem\AttendanceSystem.Model\bin\Debug\AttendanceSystem.Model.dll
+F:\Project\AttendanceSystem\AttendanceSystem.Model\bin\Debug\AttendanceSystem.Model.pdb
+F:\Project\AttendanceSystem\AttendanceSystem.Model\obj\Debug\AttendanceSystem.Model.dll
+F:\Project\AttendanceSystem\AttendanceSystem.Model\obj\Debug\AttendanceSystem.Model.pdb
